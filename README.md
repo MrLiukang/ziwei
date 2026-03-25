@@ -68,6 +68,9 @@ npm run build
 
 在应用内点击设置图标，配置 LLM API：
 
+推荐 Kimi ，虽然不是最好用的，但是我最喜欢的
+杨植麟："游戏尚未结束，Kimi不下牌桌，Kimi不打算认输。"
+
 | 模型 | API Key 获取 |
 |------|-------------|
 | Kimi | [moonshot.cn](https://platform.moonshot.cn/) |
