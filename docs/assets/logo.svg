@@ -55,10 +55,10 @@
     <path d="M80 228C102 217 121 217 139 229" stroke="#D9C9AD" stroke-width="1.1" stroke-linecap="round"/>
   </g>
 
-  <g>
-    <text x="430" y="162" fill="url(#ink)" font-family="'Noto Serif SC', 'Source Han Serif SC', 'Songti SC', SimSun, serif" font-size="82" font-weight="700" letter-spacing="13">&#32043;&#24494;&#30693;&#36947;</text>
-    <text x="437" y="211" fill="#7A7182" font-family="'Noto Sans SC', 'Microsoft YaHei', Arial, sans-serif" font-size="24" font-weight="400" letter-spacing="4">&#35753;&#26143;&#30424;&#24320;&#21475;&#35828;&#35805;</text>
-    <text x="437" y="252" fill="#9A8456" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-weight="400" letter-spacing="7">ZIWEI KNOWS</text>
-    <path d="M437 277H772" stroke="#D8CCB7" stroke-width="1.2" stroke-linecap="round"/>
+  <g text-anchor="middle">
+    <text x="790" y="162" fill="url(#ink)" font-family="'Noto Serif SC', 'Source Han Serif SC', 'Songti SC', SimSun, serif" font-size="82" font-weight="700" letter-spacing="13">&#32043;&#24494;&#30693;&#36947;</text>
+    <text x="790" y="211" fill="#7A7182" font-family="'Noto Sans SC', 'Microsoft YaHei', Arial, sans-serif" font-size="24" font-weight="400" letter-spacing="4">&#35753;&#26143;&#30424;&#24320;&#21475;&#35828;&#35805;</text>
+    <text x="790" y="252" fill="#9A8456" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-weight="400" letter-spacing="7">ZIWEI KNOWS</text>
+    <path d="M640 277H940" stroke="#D8CCB7" stroke-width="1.2" stroke-linecap="round"/>
   </g>
 </svg>
